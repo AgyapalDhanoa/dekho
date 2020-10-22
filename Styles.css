@@ -1,0 +1,211 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.zero {
+  width: 95vw;
+  margin: 0 17px;
+  text-align: center;
+  display: inline-block;
+}
+
+.first {
+  background: yellow;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  height: 3.2vw;
+  padding-top: 2px;
+}
+
+.second {
+  background: #313131;
+  height: 2.2vw;
+  padding-top: 7px;
+}
+
+li {
+  display: inline-block;
+}
+
+.four {
+  width: 12vw;
+  height: 12vw;
+  margin-left: 66vw;
+  margin-top: 0.8vw;
+  position: absolute;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin: 5px 20px;
+  font-family: 'Commissioner', sans-serif;
+}
+
+.third {
+  background-image: url("talking_heads-speaking_in_tongues3.png");
+  background-size: 95vw 18vw;
+  background-repeat: no-repeat;
+  position: relative;
+  margin: 0 17px;
+}
+
+.five {
+  background: rgba(16, 16, 16, 0.8);
+  height: 14vw;
+  width: 80vw;
+  margin-left: 7.4vw;
+
+}
+
+.six {
+  padding-left: 2vw;
+  display: inline-block;
+  position: absolute;
+  text-transform: uppercase;
+}
+
+#five {
+  color: yellow;
+
+  font-size: 2em;
+  margin-top: 2vw;
+}
+
+#six {
+  color: white;
+
+  font-size: 1.5em;
+}
+
+#seven {
+  color: white;
+  padding-top: 0.7vw;
+  margin-top: 0.8vw;
+  font-size: 1.1em;
+}
+
+/*right box*/
+.alpha{
+display: inline-block;
+ background: yellow;
+padding: 1vw 8.22vw 1vw 1vw;
+ text-transform: uppercase;
+}
+.gamma{
+padding: 1.5vw;
+display: inline-block;
+
+}
+.ray{
+  border-top: 3px solid white;
+  padding-top: 2vw;
+  width: 21.7vw;
+}
+.oneT{
+  width: 25vw;
+  float: right;
+  margin-top: 1.7vw;
+  margin-right: 12vw;
+
+  display: inline-block;
+  clear: left;
+
+}
+.rfour{
+  background: rgba(30,30,30,0.8);
+  color: white;
+
+}
+.rone{
+
+padding: 1vw 2vw 2vw 2vw;
+}
+#rtwo{
+  padding: 2vw 4vw;
+}
+
+#qwe{
+  font-size: 0.8vw;            /*     ???????????????? */
+  color: yellow;
+
+}
+
+
+/* left box*/
+
+
+.vertline1{
+  height: 11vw;
+  border-left: solid yellow 3px;
+  padding-left: 1.1vw;
+  padding-top: 1.1vw;
+}
+
+.haha1{
+  background: yellow;
+  text-transform: uppercase;
+width: 9vw;
+padding: 0.6vw 1vw 0.6vw 0.8vw;
+
+}
+.haha{
+
+  width: 25vw;
+  margin-left: 4vw;
+  margin-top: 1vw;
+  padding-bottom: 3.5vw;
+}
+.iaia{
+
+  width: 25vw;
+  margin-left: 8vw;
+  margin-top: 1vw;
+  padding-bottom: 3.5vw;
+
+
+}
+.jaja{
+
+  width: 25vw;
+  margin-left: 4vw;
+  margin-top: 1vw;
+  padding-bottom: 3.5vw;
+}
+.kaka{
+
+  width: 25vw;
+  margin-left: 8vw;
+  margin-top: 1vw;
+
+padding-bottom: 5.5vw;
+
+}
+#cite1{
+
+padding-bottom: 5vw;
+margin-bottom: 5vw;
+
+}
+#last{
+  margin-top: 1vw;
+}
+#lastest{
+  background: yellow;
+  color: black;
+  font-size: 0.88vw;
+
+  margin-left: 0.2;
+  padding-left: 0.2vw;
+}
+
+.nana{
+  border-top: solid yellow 5px;
+
+padding-right: 5vw;
+padding-bottom: 3vw;
+
+}
